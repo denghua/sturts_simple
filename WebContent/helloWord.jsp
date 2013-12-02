@@ -8,6 +8,7 @@
 </head>
 <body>
 <a href="my.action" >点击进入</a>
-
+<br/>
+欢迎登陆
 </body>
 </html>
